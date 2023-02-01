@@ -1,0 +1,2 @@
+rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/yd/testRPLIDAR_wgs/devel -DCMAKE_INSTALL_PREFIX=/home/yd/testRPLIDAR_wgs/install -G Unix Makefiles
